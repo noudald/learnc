@@ -11,11 +11,11 @@ typedef struct {
 	void (*describe)(void *self);
 	void (*destroy)(void *self);
 	void *(*move)(void *self, Direction direction);
-	void (*attack)(void *self, int damage);
+	int (*attack)(void *self, int damage);
 } Object;
 
 int Object_init(void *self);
-void Object_destory(void *self);
+void Object_destroy(void *self);
 void Object_describe(void *self);
 void *Object_move(void *self, Direction direction);
 int Object_attack(void *self, int damage);
@@ -24,4 +24,4 @@ void *Object_new(size_t size, Object proto, char *description);
 #define NEW(T, N) Object_new(sizeof(T), T##Proto, N)
 #define _(N) proto.N
 
-#endif /* _object_h */
+#endif
