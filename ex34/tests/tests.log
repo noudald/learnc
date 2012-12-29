@@ -1,0 +1,82 @@
+DEBUG tests/darray_tests.c:126: ----- RUNNING ALL TESTS OF: ./tests/darray_tests
+DEBUG tests/darray_tests.c:114: 
+----- TESTING test_create
+DEBUG tests/darray_tests.c:115: 
+----- TESTING test_new
+DEBUG tests/darray_tests.c:116: 
+----- TESTING test_set
+DEBUG tests/darray_tests.c:117: 
+----- TESTING test_get
+DEBUG tests/darray_tests.c:118: 
+----- TESTING test_remove
+DEBUG tests/darray_tests.c:119: 
+----- TESTING test_expand_contract
+[ERROR] (src/lcthw/darray.c:52: errno: None) Cannot make array smaller.
+[ERROR] (tests/darray_tests.c:81: errno: None) Should stay at the expand_rate at least.
+DEBUG tests/darray_tests.c:126: ----- RUNNING ALL TESTS OF: ./tests/darray_tests
+DEBUG tests/darray_tests.c:114: 
+----- TESTING test_create
+DEBUG tests/darray_tests.c:115: 
+----- TESTING test_new
+DEBUG tests/darray_tests.c:116: 
+----- TESTING test_set
+DEBUG tests/darray_tests.c:117: 
+----- TESTING test_get
+DEBUG tests/darray_tests.c:118: 
+----- TESTING test_remove
+DEBUG tests/darray_tests.c:119: 
+----- TESTING test_expand_contract
+DEBUG tests/darray_tests.c:120: 
+----- TESTING test_push_pop
+[ERROR] (tests/darray_tests.c:99: errno: None) Wrong max size.
+DEBUG tests/darray_tests.c:126: ----- RUNNING ALL TESTS OF: ./tests/darray_tests
+DEBUG tests/darray_tests.c:114: 
+----- TESTING test_create
+DEBUG tests/darray_tests.c:115: 
+----- TESTING test_new
+DEBUG tests/darray_tests.c:116: 
+----- TESTING test_set
+DEBUG tests/darray_tests.c:117: 
+----- TESTING test_get
+DEBUG tests/darray_tests.c:118: 
+----- TESTING test_remove
+DEBUG tests/darray_tests.c:119: 
+----- TESTING test_expand_contract
+DEBUG tests/darray_tests.c:120: 
+----- TESTING test_push_pop
+[ERROR] (tests/darray_tests.c:99: errno: None) Wrong max size.
+DEBUG tests/darray_tests.c:126: ----- RUNNING ALL TESTS OF: ./tests/darray_tests
+DEBUG tests/darray_tests.c:114: 
+----- TESTING test_create
+DEBUG tests/darray_tests.c:115: 
+----- TESTING test_new
+DEBUG tests/darray_tests.c:116: 
+----- TESTING test_set
+DEBUG tests/darray_tests.c:117: 
+----- TESTING test_get
+DEBUG tests/darray_tests.c:118: 
+----- TESTING test_remove
+DEBUG tests/darray_tests.c:119: 
+----- TESTING test_expand_contract
+DEBUG tests/darray_tests.c:120: 
+----- TESTING test_push_pop
+DEBUG tests/darray_tests.c:121: 
+----- TESTING test_clear_destroy
+DEBUG tests/list_tests.c:104: ----- RUNNING ALL TESTS OF: ./tests/list_tests
+DEBUG tests/list_tests.c:94: 
+----- TESTING test_create
+DEBUG tests/list_tests.c:95: 
+----- TESTING test_push_pop
+DEBUG tests/list_tests.c:96: 
+----- TESTING test_unshift
+DEBUG tests/list_tests.c:97: 
+----- TESTING test_remove
+DEBUG tests/list_tests.c:98: 
+----- TESTING test_shift
+DEBUG tests/list_tests.c:99: 
+----- TESTING test_destroy
+DEBUG tests/sort_tests.c:82: ----- RUNNING ALL TESTS OF: ./tests/sort_tests
+DEBUG tests/sort_tests.c:76: 
+----- TESTING test_bubble_sort
+DEBUG tests/sort_tests.c:77: 
+----- TESTING test_merge_sort

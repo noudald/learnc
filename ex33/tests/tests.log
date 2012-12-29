@@ -1,0 +1,90 @@
+DEBUG tests/list_tests.c:104: ----- RUNNING ALL TESTS OF: ./tests/list_tests
+DEBUG tests/list_tests.c:94: 
+----- TESTING test_create
+DEBUG tests/list_tests.c:95: 
+----- TESTING test_push_pop
+DEBUG tests/list_tests.c:96: 
+----- TESTING test_unshift
+DEBUG tests/list_tests.c:97: 
+----- TESTING test_remove
+DEBUG tests/list_tests.c:98: 
+----- TESTING test_shift
+DEBUG tests/list_tests.c:99: 
+----- TESTING test_destroy
+DEBUG tests/sort_tests.c:82: ----- RUNNING ALL TESTS OF: ./tests/sort_tests
+DEBUG tests/sort_tests.c:76: 
+----- TESTING test_bubble_sort
+DEBUG tests/sort_tests.c:77: 
+----- TESTING test_merge_sort
+DEBUG tests/list_tests.c:104: ----- RUNNING ALL TESTS OF: ./tests/list_tests
+DEBUG tests/list_tests.c:94: 
+----- TESTING test_create
+DEBUG tests/list_tests.c:95: 
+----- TESTING test_push_pop
+DEBUG tests/list_tests.c:96: 
+----- TESTING test_unshift
+DEBUG tests/list_tests.c:97: 
+----- TESTING test_remove
+DEBUG tests/list_tests.c:98: 
+----- TESTING test_shift
+DEBUG tests/list_tests.c:99: 
+----- TESTING test_destroy
+DEBUG tests/sort_tests.c:82: ----- RUNNING ALL TESTS OF: ./tests/sort_tests
+DEBUG tests/sort_tests.c:76: 
+----- TESTING test_bubble_sort
+DEBUG tests/sort_tests.c:77: 
+----- TESTING test_merge_sort
+DEBUG tests/list_tests.c:104: ----- RUNNING ALL TESTS OF: ./tests/list_tests
+DEBUG tests/list_tests.c:94: 
+----- TESTING test_create
+DEBUG tests/list_tests.c:95: 
+----- TESTING test_push_pop
+DEBUG tests/list_tests.c:96: 
+----- TESTING test_unshift
+DEBUG tests/list_tests.c:97: 
+----- TESTING test_remove
+DEBUG tests/list_tests.c:98: 
+----- TESTING test_shift
+DEBUG tests/list_tests.c:99: 
+----- TESTING test_destroy
+DEBUG tests/sort_tests.c:82: ----- RUNNING ALL TESTS OF: ./tests/sort_tests
+DEBUG tests/sort_tests.c:76: 
+----- TESTING test_bubble_sort
+DEBUG tests/sort_tests.c:77: 
+----- TESTING test_merge_sort
+DEBUG tests/list_tests.c:104: ----- RUNNING ALL TESTS OF: ./tests/list_tests
+DEBUG tests/list_tests.c:94: 
+----- TESTING test_create
+DEBUG tests/list_tests.c:95: 
+----- TESTING test_push_pop
+DEBUG tests/list_tests.c:96: 
+----- TESTING test_unshift
+DEBUG tests/list_tests.c:97: 
+----- TESTING test_remove
+DEBUG tests/list_tests.c:98: 
+----- TESTING test_shift
+DEBUG tests/list_tests.c:99: 
+----- TESTING test_destroy
+DEBUG tests/sort_tests.c:82: ----- RUNNING ALL TESTS OF: ./tests/sort_tests
+DEBUG tests/sort_tests.c:76: 
+----- TESTING test_bubble_sort
+DEBUG tests/sort_tests.c:77: 
+----- TESTING test_merge_sort
+DEBUG tests/list_tests.c:104: ----- RUNNING ALL TESTS OF: ./tests/list_tests
+DEBUG tests/list_tests.c:94: 
+----- TESTING test_create
+DEBUG tests/list_tests.c:95: 
+----- TESTING test_push_pop
+DEBUG tests/list_tests.c:96: 
+----- TESTING test_unshift
+DEBUG tests/list_tests.c:97: 
+----- TESTING test_remove
+DEBUG tests/list_tests.c:98: 
+----- TESTING test_shift
+DEBUG tests/list_tests.c:99: 
+----- TESTING test_destroy
+DEBUG tests/sort_tests.c:82: ----- RUNNING ALL TESTS OF: ./tests/sort_tests
+DEBUG tests/sort_tests.c:76: 
+----- TESTING test_bubble_sort
+DEBUG tests/sort_tests.c:77: 
+----- TESTING test_merge_sort

@@ -1,0 +1,13 @@
+BUGS:
+
+There is a weird bug in gcc, the following two commands produce different 
+outputs. One of them succes and the other does not.
+
+passes:
+	gcc tests/list_tests.c -g -O2 -Wall -Wextra -Isrc -rdynamic -DNDEBUG 
+		-L./build/ -llcthw -static -o tests/list_tests
+
+fails:
+
+	gcc -g -O2 -Wall -Wextra -Isrc -rdynamic -DNDEBUG -L./build/ -llcthw 
+		-static tests/list_tests.c -o tests/list_tests
